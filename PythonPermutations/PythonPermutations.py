@@ -1,4 +1,4 @@
-
+#function to produce all possible permutations of given numbers
 def perms(lst):
 
     #check if list is empty
